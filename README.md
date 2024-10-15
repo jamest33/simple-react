@@ -1,1 +1,1 @@
-# simple-react
+# Simple Project using React
